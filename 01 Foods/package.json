@@ -1,0 +1,24 @@
+{
+  "name": "01-foods",
+  "version": "1.0.0",
+  "description": "practice html/css/gulp",
+  "repository": {
+    "url": "https://github.com/mszolghadr/10-mega-responsive.git"
+  },
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "msx",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-live-server": "0.0.31",
+    "gulp-sass": "^5.0.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.37.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3"
+  }
+}
